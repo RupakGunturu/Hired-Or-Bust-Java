@@ -16,6 +16,8 @@ public class VolumeofPrism {
 
         double volume = baseArea * height ;
 
+
+        System.out.print(" The Volume of Prism : " + volume);
         sc.close();
     }
 }
