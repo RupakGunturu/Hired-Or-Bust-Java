@@ -19,7 +19,7 @@
 
 ### 🔥 Streak
 
-`05 Days`
+`04 Days`
 
 ---
 
