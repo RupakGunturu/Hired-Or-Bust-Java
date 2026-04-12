@@ -11,7 +11,7 @@
 * **Day 02** → Palindrome Number
 * **Day 03** → Minimum Distance between Three Equal Elemenys I
 * **Day 04** → Minimum Distance between Three Equal Elemenys II
-* **Day 04** → Minimum Distance to type a word using Two Fingers
+* **Day 05** → Minimum Distance to type a word using Two Fingers
 
 
 
