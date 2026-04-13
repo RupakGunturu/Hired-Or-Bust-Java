@@ -12,6 +12,7 @@
 * **Day 03** → Minimum Distance between Three Equal Elemenys I
 * **Day 04** → Minimum Distance between Three Equal Elemenys II
 * **Day 05** → Minimum Distance to type a word using Two Fingers
+* **Day 06** → Minimum Distance to the Target Element
 
 
 
@@ -20,7 +21,7 @@
 
 ### 🔥 Streak
 
-`05 Days`
+`06 Days`
 
 ---
 
