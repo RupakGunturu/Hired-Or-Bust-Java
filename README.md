@@ -14,7 +14,7 @@
 * **Day 05** → Minimum Distance to type a word using Two Fingers
 * **Day 06** → Minimum Distance to the Target Element
 * **Day 07** → Minimum total Distance Traveled
-
+* **Day 08** → Shortest Distance to target string in a circular Array
 
 
 
@@ -22,7 +22,7 @@
 
 ### 🔥 Streak
 
-`07 Days`
+`08 Days`
 
 ---
 
