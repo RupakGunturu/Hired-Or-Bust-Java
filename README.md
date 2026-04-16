@@ -15,6 +15,7 @@
 * **Day 06** → Minimum Distance to the Target Element
 * **Day 07** → Minimum total Distance Traveled
 * **Day 08** → Shortest Distance to target string in a circular Array
+* **Day 09** → Closest Equal Element Queries 
 
 
 
@@ -22,7 +23,7 @@
 
 ### 🔥 Streak
 
-`08 Days`
+`09 Days`
 
 ---
 
