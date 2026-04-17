@@ -24,7 +24,7 @@
 
 ### 🔥 Streak
 
-`09 Days`
+`10 Days`
 
 ---
 
