@@ -18,6 +18,7 @@
 * **Day 09** → Closest Equal Element Queries
 * **Day 10** → minimum Absolute Distance Between Mirror Pairs
 * **Day 11** → Mirror Distance of an integer
+* **Day 12** → Minimum Distance between a pair of Values
 
 
 
@@ -25,7 +26,7 @@
 
 ### 🔥 Streak
 
-`11 Days`
+`12 Days`
 
 ---
 
