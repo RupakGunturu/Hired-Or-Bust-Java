@@ -19,6 +19,7 @@
 * **Day 10** → minimum Absolute Distance Between Mirror Pairs
 * **Day 11** → Mirror Distance of an integer
 * **Day 12** → Minimum Distance between a pair of Values
+* **Day 13** → Two Further houses with Different Color
 
 
 
@@ -26,7 +27,7 @@
 
 ### 🔥 Streak
 
-`12 Days`
+`13 Days`
 
 ---
 
