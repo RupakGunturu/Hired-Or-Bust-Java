@@ -20,6 +20,7 @@
 * **Day 11** → Mirror Distance of an integer
 * **Day 12** → Minimum Distance between a pair of Values
 * **Day 13** → Two Further houses with Different Color
+* **Day 14** → Minimize Hamming Distance After Swap Operations
 
 
 
@@ -27,7 +28,7 @@
 
 ### 🔥 Streak
 
-`13 Days`
+`14 Days`
 
 ---
 
