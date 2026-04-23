@@ -21,7 +21,8 @@
 * **Day 12** → Minimum Distance between a pair of Values
 * **Day 13** → Two Further houses with Different Color
 * **Day 14** → Minimize Hamming Distance After Swap Operations
-* **Day 15** → Words Within Two Edits of Dictionary 
+* **Day 15** → Words Within Two Edits of Dictionary
+* **Day 16** → Sum of Distances
 
 
 
@@ -29,7 +30,7 @@
 
 ### 🔥 Streak
 
-`15 Days`
+`16 Days`
 
 ---
 
