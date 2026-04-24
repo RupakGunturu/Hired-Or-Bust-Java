@@ -23,6 +23,7 @@
 * **Day 14** → Minimize Hamming Distance After Swap Operations
 * **Day 15** → Words Within Two Edits of Dictionary
 * **Day 16** → Sum of Distances
+* **Day 17** → Further point From Origin
 
 
 
@@ -30,7 +31,7 @@
 
 ### 🔥 Streak
 
-`16 Days`
+`17 Days`
 
 ---
 
