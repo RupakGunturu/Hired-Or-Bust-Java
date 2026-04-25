@@ -24,6 +24,7 @@
 * **Day 15** → Words Within Two Edits of Dictionary
 * **Day 16** → Sum of Distances
 * **Day 17** → Further point From Origin
+* **Day 18** → Maximize the Distance Between Point on a Square
 
 
 
@@ -31,7 +32,7 @@
 
 ### 🔥 Streak
 
-`17 Days`
+`18 Days`
 
 ---
 
