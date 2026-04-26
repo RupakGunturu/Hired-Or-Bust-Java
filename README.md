@@ -25,6 +25,7 @@
 * **Day 16** → Sum of Distances
 * **Day 17** → Further point From Origin
 * **Day 18** → Maximize the Distance Between Point on a Square
+* **Day 19** → Detect Cycle in 2D Grid
 
 
 
@@ -32,7 +33,7 @@
 
 ### 🔥 Streak
 
-`18 Days`
+`19 Days`
 
 ---
 
