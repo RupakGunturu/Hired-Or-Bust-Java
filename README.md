@@ -26,6 +26,7 @@
 * **Day 17** → Further point From Origin
 * **Day 18** → Maximize the Distance Between Point on a Square
 * **Day 19** → Detect Cycle in 2D Grid
+* **Day 20** → Check if there is a Valid Path in a Grid
 
 
 
@@ -33,7 +34,7 @@
 
 ### 🔥 Streak
 
-`19 Days`
+`200 Days`
 
 ---
 
