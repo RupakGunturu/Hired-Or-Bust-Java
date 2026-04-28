@@ -27,6 +27,7 @@
 * **Day 18** → Maximize the Distance Between Point on a Square
 * **Day 19** → Detect Cycle in 2D Grid
 * **Day 20** → Check if there is a Valid Path in a Grid
+* **Day 21** → Minimum Operations to make a Uni-Value Grid
 
 
 
@@ -34,7 +35,7 @@
 
 ### 🔥 Streak
 
-`20 Days`
+`21 Days`
 
 ---
 
