@@ -28,6 +28,7 @@
 * **Day 19** → Detect Cycle in 2D Grid
 * **Day 20** → Check if there is a Valid Path in a Grid
 * **Day 21** → Minimum Operations to make a Uni-Value Grid
+* **Day 22** → Maximum Score From Grid Operation
 
 
 
@@ -35,7 +36,7 @@
 
 ### 🔥 Streak
 
-`21 Days`
+`22 Days`
 
 ---
 
