@@ -29,6 +29,7 @@
 * **Day 20** → Check if there is a Valid Path in a Grid
 * **Day 21** → Minimum Operations to make a Uni-Value Grid
 * **Day 22** → Maximum Score From Grid Operation
+* **Day 23** → Maximum Path Score in a Grid
 
 
 
@@ -36,7 +37,7 @@
 
 ### 🔥 Streak
 
-`22 Days`
+`23 Days`
 
 ---
 
