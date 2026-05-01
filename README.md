@@ -30,6 +30,7 @@
 * **Day 21** → Minimum Operations to make a Uni-Value Grid
 * **Day 22** → Maximum Score From Grid Operation
 * **Day 23** → Maximum Path Score in a Grid
+* **Day 24** → Rotate Function
 
 
 
@@ -37,7 +38,7 @@
 
 ### 🔥 Streak
 
-`23 Days`
+`24 Days`
 
 ---
 
