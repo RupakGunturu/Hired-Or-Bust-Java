@@ -31,6 +31,7 @@
 * **Day 22** → Maximum Score From Grid Operation
 * **Day 23** → Maximum Path Score in a Grid
 * **Day 24** → Rotate Function
+* **Day 25** → Rotated Digits
 
 
 
