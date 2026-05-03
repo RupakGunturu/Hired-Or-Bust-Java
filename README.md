@@ -32,6 +32,7 @@
 * **Day 23** → Maximum Path Score in a Grid
 * **Day 24** → Rotate Function
 * **Day 25** → Rotated Digits
+* **Day 26** → Rotated String
 
 
 
@@ -39,7 +40,7 @@
 
 ### 🔥 Streak
 
-`24 Days`
+`26 Days`
 
 ---
 
