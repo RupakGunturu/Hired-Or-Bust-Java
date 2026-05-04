@@ -33,6 +33,7 @@
 * **Day 24** → Rotate Function
 * **Day 25** → Rotated Digits
 * **Day 26** → Rotated String
+* **Day 27** → Rotate Image
 
 
 
@@ -40,7 +41,7 @@
 
 ### 🔥 Streak
 
-`26 Days`
+`27 Days`
 
 ---
 
