@@ -34,6 +34,7 @@
 * **Day 25** → Rotated Digits
 * **Day 26** → Rotated String
 * **Day 27** → Rotate Image
+* **Day 28** → Rotate List
 
 
 
