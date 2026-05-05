@@ -42,7 +42,7 @@
 
 ### 🔥 Streak
 
-`27 Days`
+`28 Days`
 
 ---
 
