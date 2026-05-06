@@ -35,6 +35,7 @@
 * **Day 26** → Rotated String
 * **Day 27** → Rotate Image
 * **Day 28** → Rotate List
+* **Day 29** → Rotating the Box
 
 
 
@@ -42,7 +43,7 @@
 
 ### 🔥 Streak
 
-`28 Days`
+`29 Days`
 
 ---
 
