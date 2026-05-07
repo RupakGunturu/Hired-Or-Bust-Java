@@ -36,6 +36,7 @@
 * **Day 27** → Rotate Image
 * **Day 28** → Rotate List
 * **Day 29** → Rotating the Box
+* **Day 30** → Jump Game IX
 
 
 
@@ -43,7 +44,7 @@
 
 ### 🔥 Streak
 
-`29 Days`
+`30 Days`
 
 ---
 
