@@ -37,6 +37,7 @@
 * **Day 28** → Rotate List
 * **Day 29** → Rotating the Box
 * **Day 30** → Jump Game IX
+* **Day 31** → Minimum Jumps to Reach End via Prime Teleportation 
 
 
 
@@ -44,7 +45,7 @@
 
 ### 🔥 Streak
 
-`30 Days`
+`31 Days`
 
 ---
 
