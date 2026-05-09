@@ -38,14 +38,14 @@
 * **Day 29** → Rotating the Box
 * **Day 30** → Jump Game IX
 * **Day 31** → Minimum Jumps to Reach End via Prime Teleportation 
-
+* **Day 32** → Cyclically Rotation a Grid
 
 
 ---
 
 ### 🔥 Streak
 
-`31 Days`
+`32 Days`
 
 ---
 
