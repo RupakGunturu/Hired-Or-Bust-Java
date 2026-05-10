@@ -39,13 +39,14 @@
 * **Day 30** → Jump Game IX
 * **Day 31** → Minimum Jumps to Reach End via Prime Teleportation 
 * **Day 32** → Cyclically Rotation a Grid
+* **Day 33** → Maximum Number of Jumps to reach the last index
 
 
 ---
 
 ### 🔥 Streak
 
-`32 Days`
+`33 Days`
 
 ---
 
