@@ -40,13 +40,14 @@
 * **Day 31** → Minimum Jumps to Reach End via Prime Teleportation 
 * **Day 32** → Cyclically Rotation a Grid
 * **Day 33** → Maximum Number of Jumps to reach the last index
+* **Day 34** → Separate the Digits in an Arrray
 
 
 ---
 
 ### 🔥 Streak
 
-`33 Days`
+`34 Days`
 
 ---
 
