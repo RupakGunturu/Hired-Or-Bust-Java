@@ -42,13 +42,14 @@
 * **Day 33** → Maximum Number of Jumps to reach the last index
 * **Day 34** → Separate the Digits in an Array
 * **Day 35** → Minimum Intial Energy to Finish Tasks
+* **Day 36** → Minimum Moves to Make Array Complementary
 
 
 ---
 
 ### 🔥 Streak
 
-`35 Days`
+`36 Days`
 
 ---
 
