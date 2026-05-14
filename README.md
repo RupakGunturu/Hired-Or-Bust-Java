@@ -43,13 +43,14 @@
 * **Day 34** → Separate the Digits in an Array
 * **Day 35** → Minimum Intial Energy to Finish Tasks
 * **Day 36** → Minimum Moves to Make Array Complementary
+* **Day 37** → Check if Array is Good
 
 
 ---
 
 ### 🔥 Streak
 
-`36 Days`
+`37 Days`
 
 ---
 
