@@ -44,13 +44,14 @@
 * **Day 35** → Minimum Intial Energy to Finish Tasks
 * **Day 36** → Minimum Moves to Make Array Complementary
 * **Day 37** → Check if Array is Good
+* **Day 38** → Find Minimum in Rotated Sorted Array
 
 
 ---
 
 ### 🔥 Streak
 
-`37 Days`
+`38 Days`
 
 ---
 
