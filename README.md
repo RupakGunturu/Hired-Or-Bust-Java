@@ -45,13 +45,14 @@
 * **Day 36** → Minimum Moves to Make Array Complementary
 * **Day 37** → Check if Array is Good
 * **Day 38** → Find Minimum in Rotated Sorted Array
+* **Day 39** → Find Minimum in Rotated Sorted Array II
 
 
 ---
 
 ### 🔥 Streak
 
-`38 Days`
+`39 Days`
 
 ---
 
