@@ -47,13 +47,14 @@
 * **Day 38** → Find Minimum in Rotated Sorted Array
 * **Day 39** → Find Minimum in Rotated Sorted Array II
 * **Day 40** → Jump Game III
+* **Day 41** → Jump Game IV
 
 
 ---
 
 ### 🔥 Streak
 
-`40 Days`
+`41 Days`
 
 ---
 
