@@ -48,13 +48,14 @@
 * **Day 39** → Find Minimum in Rotated Sorted Array II
 * **Day 40** → Jump Game III
 * **Day 41** → Jump Game IV
+* **Day 42** → Minimum Common Value 
 
 
 ---
 
 ### 🔥 Streak
 
-`41 Days`
+`42 Days`
 
 ---
 
