@@ -48,14 +48,15 @@
 * **Day 39** → Find Minimum in Rotated Sorted Array II
 * **Day 40** → Jump Game III
 * **Day 41** → Jump Game IV
-* **Day 42** → Minimum Common Value 
+* **Day 42** → Minimum Common Value
+* **Day 43** → Find the prefix Common Array of Two Arrays
 
 
 ---
 
 ### 🔥 Streak
 
-`42 Days`
+`43 Days`
 
 ---
 
