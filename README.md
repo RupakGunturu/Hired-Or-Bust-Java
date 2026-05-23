@@ -52,13 +52,14 @@
 * **Day 43** → Find the prefix Common Array of Two Arrays
 * **Day 44** → Find the Length of the Longest Common prefix
 * **Day 45** → Search in Rotated Sorted Array
+* **Day 46** → Check if Array Is Sorted and Rotated
 
 
 ---
 
 ### 🔥 Streak
 
-`45 Days`
+`46 Days`
 
 ---
 
