@@ -53,13 +53,14 @@
 * **Day 44** → Find the Length of the Longest Common prefix
 * **Day 45** → Search in Rotated Sorted Array
 * **Day 46** → Check if Array Is Sorted and Rotated
+* **Day 47** → jump Game V
 
 
 ---
 
 ### 🔥 Streak
 
-`46 Days`
+`47 Days`
 
 ---
 
