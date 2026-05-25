@@ -54,13 +54,14 @@
 * **Day 45** → Search in Rotated Sorted Array
 * **Day 46** → Check if Array Is Sorted and Rotated
 * **Day 47** → jump Game V
+* **Day 48** → jump Game VII
 
 
 ---
 
 ### 🔥 Streak
 
-`47 Days`
+`48 Days`
 
 ---
 
