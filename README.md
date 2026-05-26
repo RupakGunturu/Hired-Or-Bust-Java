@@ -55,13 +55,14 @@
 * **Day 46** → Check if Array Is Sorted and Rotated
 * **Day 47** → jump Game V
 * **Day 48** → jump Game VII
+* **Day 49** → Count the Number of Special Characters I
 
 
 ---
 
 ### 🔥 Streak
 
-`48 Days`
+`49 Days`
 
 ---
 
