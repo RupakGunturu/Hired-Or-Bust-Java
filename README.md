@@ -56,13 +56,14 @@
 * **Day 47** → jump Game V
 * **Day 48** → jump Game VII
 * **Day 49** → Count the Number of Special Characters I
+* **Day 50** → Count the Number of Special Characters II
 
 
 ---
 
 ### 🔥 Streak
 
-`49 Days`
+`50 Days`
 
 ---
 
