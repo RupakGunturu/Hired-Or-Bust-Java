@@ -57,13 +57,14 @@
 * **Day 48** → jump Game VII
 * **Day 49** → Count the Number of Special Characters I
 * **Day 50** → Count the Number of Special Characters II
+* **Day 51** → Longest Common Suffix Queries
 
 
 ---
 
 ### 🔥 Streak
 
-`50 Days`
+`51 Days`
 
 ---
 
