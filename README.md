@@ -58,13 +58,13 @@
 * **Day 49** → Count the Number of Special Characters I
 * **Day 50** → Count the Number of Special Characters II
 * **Day 51** → Longest Common Suffix Queries
-
+* **Day 52** → Minimum Element After Replacement with Digit Sum
 
 ---
 
 ### 🔥 Streak
 
-`51 Days`
+`52 Days`
 
 ---
 
