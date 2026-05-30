@@ -59,12 +59,13 @@
 * **Day 50** → Count the Number of Special Characters II
 * **Day 51** → Longest Common Suffix Queries
 * **Day 52** → Minimum Element After Replacement with Digit Sum
+* **Day 53** → Block Placement Queries
 
 ---
 
 ### 🔥 Streak
 
-`52 Days`
+`53 Days`
 
 ---
 
