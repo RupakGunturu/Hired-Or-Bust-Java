@@ -60,12 +60,13 @@
 * **Day 51** → Longest Common Suffix Queries
 * **Day 52** → Minimum Element After Replacement with Digit Sum
 * **Day 53** → Block Placement Queries
+* **Day 54** → Destroying Asteroids
 
 ---
 
 ### 🔥 Streak
 
-`53 Days`
+`54 Days`
 
 ---
 
