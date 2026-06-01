@@ -61,12 +61,13 @@
 * **Day 52** → Minimum Element After Replacement with Digit Sum
 * **Day 53** → Block Placement Queries
 * **Day 54** → Destroying Asteroids
+* **Day 55** → Minimum Cost of Buying Candies with discount 
 
 ---
 
 ### 🔥 Streak
 
-`54 Days`
+`55 Days`
 
 ---
 
