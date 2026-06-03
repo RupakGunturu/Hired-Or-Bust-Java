@@ -63,12 +63,13 @@
 * **Day 54** → Destroying Asteroids
 * **Day 55** → Minimum Cost of Buying Candies with Discount
 * **Day 56** → Earliest Finish Time For Land and Water Rides I
+* **Day 57** → Earliest Finish Time For Land and Water Rides II
 
 ---
 
 ### 🔥 Streak
 
-`56 Days`
+`57 Days`
 
 ---
 
