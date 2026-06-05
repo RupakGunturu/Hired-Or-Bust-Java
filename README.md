@@ -64,13 +64,14 @@
 * **Day 55** → Minimum Cost of Buying Candies with Discount
 * **Day 56** → Earliest Finish Time For Land and Water Rides I
 * **Day 57** → Earliest Finish Time For Land and Water Rides II
-* **Day 58** → Total Waviness of Numbers in Range I 
-
+* **Day 58** → Total Waviness of Numbers in Range I
+* **Day 59** → Total Waviness of Numbers in Range II
+ 
 ---
 
 ### 🔥 Streak
 
-`58 Days`
+`59 Days`
 
 ---
 
