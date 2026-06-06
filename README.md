@@ -66,12 +66,13 @@
 * **Day 57** → Earliest Finish Time For Land and Water Rides II
 * **Day 58** → Total Waviness of Numbers in Range I
 * **Day 59** → Total Waviness of Numbers in Range II
+* **Day 60** → left and Right Sum Differences
  
 ---
 
 ### 🔥 Streak
 
-`59 Days`
+`60 Days`
 
 ---
 
