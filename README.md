@@ -67,12 +67,13 @@
 * **Day 58** → Total Waviness of Numbers in Range I
 * **Day 59** → Total Waviness of Numbers in Range II
 * **Day 60** → left and Right Sum Differences
+* **Day 61** → Create Binary Tree From Descriptions
  
 ---
 
 ### 🔥 Streak
 
-`60 Days`
+`61 Days`
 
 ---
 
