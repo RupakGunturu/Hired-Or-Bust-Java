@@ -68,12 +68,13 @@
 * **Day 59** → Total Waviness of Numbers in Range II
 * **Day 60** → left and Right Sum Differences
 * **Day 61** → Create Binary Tree From Descriptions
+* **Day 62** → Partition Array According to Given Pivot
  
 ---
 
 ### 🔥 Streak
 
-`61 Days`
+`62 Days`
 
 ---
 
