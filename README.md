@@ -69,12 +69,13 @@
 * **Day 60** → left and Right Sum Differences
 * **Day 61** → Create Binary Tree From Descriptions
 * **Day 62** → Partition Array According to Given Pivot
+* **Day 63** → Maximum Total Subarray Value I
  
 ---
 
 ### 🔥 Streak
 
-`62 Days`
+`63 Days`
 
 ---
 
