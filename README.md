@@ -72,11 +72,12 @@
 * **Day 63** → Maximum Total Subarray Value I
 * **Day 64** → Maximum Total Subarray Value II
 * **Day 65** → Number of Ways to Assign Edge Weights I
+* **Day 66** → Number of Ways to Assign Edge Weights II
 ---
 
 ### 🔥 Streak
 
-`65 Days`
+`66 Days`
 
 ---
 
