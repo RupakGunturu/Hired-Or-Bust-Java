@@ -74,11 +74,12 @@
 * **Day 65** → Number of Ways to Assign Edge Weights I
 * **Day 66** → Number of Ways to Assign Edge Weights II
 * **Day 67** → Weighted Word Mapping
+* **Day 68** → Maximum Twin Sum of a Linked List
 ---
 
 ### 🔥 Streak
 
-`67 Days`
+`68 Days`
 
 ---
 
