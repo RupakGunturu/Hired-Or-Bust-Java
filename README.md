@@ -75,11 +75,12 @@
 * **Day 66** → Number of Ways to Assign Edge Weights II
 * **Day 67** → Weighted Word Mapping
 * **Day 68** → Maximum Twin Sum of a Linked List
+* **Day 69** → Delete the Middle Node of a Linked List
 ---
 
 ### 🔥 Streak
 
-`68 Days`
+`69 Days`
 
 ---
 
