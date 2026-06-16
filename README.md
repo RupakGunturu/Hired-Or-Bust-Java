@@ -76,11 +76,12 @@
 * **Day 67** → Weighted Word Mapping
 * **Day 68** → Maximum Twin Sum of a Linked List
 * **Day 69** → Delete the Middle Node of a Linked List
+* **Day 70** → Process String with Special Operations I
 ---
 
 ### 🔥 Streak
 
-`69 Days`
+`70 Days`
 
 ---
 
