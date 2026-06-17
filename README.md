@@ -77,6 +77,7 @@
 * **Day 68** → Maximum Twin Sum of a Linked List
 * **Day 69** → Delete the Middle Node of a Linked List
 * **Day 70** → Process String with Special Operations I
+* **Day 71** → Process String with Special Operations II
 ---
 
 ### 🔥 Streak
