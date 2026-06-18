@@ -78,11 +78,12 @@
 * **Day 69** → Delete the Middle Node of a Linked List
 * **Day 70** → Process String with Special Operations I
 * **Day 71** → Process String with Special Operations II
+* **Day 72** → Angle Between Hands of a Clock
 ---
 
 ### 🔥 Streak
 
-`71 Days`
+`72 Days`
 
 ---
 
