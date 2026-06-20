@@ -80,11 +80,12 @@
 * **Day 71** → Process String with Special Operations II
 * **Day 72** → Angle Between Hands of a Clock
 * **Day 73** → Find the Highest Altitude
+* **Day 74** → Maximum Building Height
 ---
 
 ### 🔥 Streak
 
-`73 Days`
+`74 Days`
 
 ---
 
