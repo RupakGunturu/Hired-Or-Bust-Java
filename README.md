@@ -82,11 +82,12 @@
 * **Day 73** → Find the Highest Altitude
 * **Day 74** → Maximum Building Height
 * **Day 75** → Maximum Ice Cream Bars
+* **Day 76** → Maximum Number of Balloons
 ---
 
 ### 🔥 Streak
 
-`75 Days`
+`76 Days`
 
 ---
 
