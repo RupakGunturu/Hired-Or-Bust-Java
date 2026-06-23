@@ -83,11 +83,12 @@
 * **Day 74** → Maximum Building Height
 * **Day 75** → Maximum Ice Cream Bars
 * **Day 76** → Maximum Number of Balloons
+* **Day 77** → Number of ZigZag Arrays I
 ---
 
 ### 🔥 Streak
 
-`76 Days`
+`77 Days`
 
 ---
 
