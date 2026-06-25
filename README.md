@@ -85,12 +85,13 @@
 * **Day 76** → Maximum Number of Balloons
 * **Day 77** → Number of ZigZag Arrays I
 * **Day 78** → Number of ZigZag Arrays II
+* **Day 79** → Count Subarrays With Majority Element I
 
 ---
 
 ### 🔥 Streak
 
-`78 Days`
+`79 Days`
 
 ---
 
