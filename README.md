@@ -87,12 +87,13 @@
 * **Day 78** → Number of ZigZag Arrays II
 * **Day 79** → Count Subarrays With Majority Element I
 * **Day 80** → Count Subarrays With Majority Element II
+* **Day 81** → Find the Maximum Number of Element in Subset
 
 ---
 
 ### 🔥 Streak
 
-`80 Days`
+`81 Days`
 
 ---
 
