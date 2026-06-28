@@ -88,12 +88,13 @@
 * **Day 79** → Count Subarrays With Majority Element I
 * **Day 80** → Count Subarrays With Majority Element II
 * **Day 81** → Find the Maximum Number of Element in Subset
+* **Day 82** → Maximum Element After Decreasing and Rearranging
 
 ---
 
 ### 🔥 Streak
 
-`81 Days`
+`82 Days`
 
 ---
 
