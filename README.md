@@ -89,12 +89,13 @@
 * **Day 80** → Count Subarrays With Majority Element II
 * **Day 81** → Find the Maximum Number of Element in Subset
 * **Day 82** → Maximum Element After Decreasing and Rearranging
+* **Day 83** → Number of Strings That Appears as SubStrings in Word
 
 ---
 
 ### 🔥 Streak
 
-`82 Days`
+`83 Days`
 
 ---
 
