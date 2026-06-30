@@ -90,12 +90,13 @@
 * **Day 81** → Find the Maximum Number of Element in Subset
 * **Day 82** → Maximum Element After Decreasing and Rearranging
 * **Day 83** → Number of Strings That Appears as SubStrings in Word
+* **Day 84** → Number of Substrings Containing All Three Characters
 
 ---
 
 ### 🔥 Streak
 
-`83 Days`
+`84 Days`
 
 ---
 
