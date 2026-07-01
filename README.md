@@ -91,12 +91,13 @@
 * **Day 82** → Maximum Element After Decreasing and Rearranging
 * **Day 83** → Number of Strings That Appears as SubStrings in Word
 * **Day 84** → Number of Substrings Containing All Three Characters
+* **Day 85** → Find the Safest Path in a Grid
 
 ---
 
 ### 🔥 Streak
 
-`84 Days`
+`85 Days`
 
 ---
 
