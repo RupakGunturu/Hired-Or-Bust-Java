@@ -92,12 +92,13 @@
 * **Day 83** → Number of Strings That Appears as SubStrings in Word
 * **Day 84** → Number of Substrings Containing All Three Characters
 * **Day 85** → Find the Safest Path in a Grid
+* **Day 86** → Find a Safe Walk Through a Grid
 
 ---
 
 ### 🔥 Streak
 
-`85 Days`
+`86 Days`
 
 ---
 
