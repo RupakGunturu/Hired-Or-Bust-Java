@@ -93,12 +93,13 @@
 * **Day 84** → Number of Substrings Containing All Three Characters
 * **Day 85** → Find the Safest Path in a Grid
 * **Day 86** → Find a Safe Walk Through a Grid
+* **Day 87** → Network Recovery Pathways
 
 ---
 
 ### 🔥 Streak
 
-`86 Days`
+`87 Days`
 
 ---
 
