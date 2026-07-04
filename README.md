@@ -94,12 +94,13 @@
 * **Day 85** → Find the Safest Path in a Grid
 * **Day 86** → Find a Safe Walk Through a Grid
 * **Day 87** → Network Recovery Pathways
+* **Day 88** → Minimum Score of a path Between Two Cities
 
 ---
 
 ### 🔥 Streak
 
-`87 Days`
+`88 Days`
 
 ---
 
