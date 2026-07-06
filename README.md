@@ -96,12 +96,13 @@
 * **Day 87** → Network Recovery Pathways
 * **Day 88** → Minimum Score of a path Between Two Cities
 * **Day 89** → Number of Paths with Max Score
+* **Day 90** → Remove Covered Intervals
 
 ---
 
 ### 🔥 Streak
 
-`89 Days`
+`90 Days`
 
 ---
 
