@@ -97,12 +97,13 @@
 * **Day 88** → Minimum Score of a path Between Two Cities
 * **Day 89** → Number of Paths with Max Score
 * **Day 90** → Remove Covered Intervals
+* **Day 91** → Concatenate Non-Zero Digits and Multiply by Sum I
 
 ---
 
 ### 🔥 Streak
 
-`90 Days`
+`91 Days`
 
 ---
 
