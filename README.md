@@ -98,12 +98,13 @@
 * **Day 89** → Number of Paths with Max Score
 * **Day 90** → Remove Covered Intervals
 * **Day 91** → Concatenate Non-Zero Digits and Multiply by Sum I
+* **Day 92** → Concatenate Non-Zero Digits and Multiply by Sum II
 
 ---
 
 ### 🔥 Streak
 
-`91 Days`
+`92 Days`
 
 ---
 
