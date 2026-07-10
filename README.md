@@ -100,12 +100,13 @@
 * **Day 91** → Concatenate Non-Zero Digits and Multiply by Sum I
 * **Day 92** → Concatenate Non-Zero Digits and Multiply by Sum II
 * **Day 93** → Path Existence Queries in a Graph I
+* **Day 94** → Path Existence Queries in a Graph II
 
 ---
 
 ### 🔥 Streak
 
-`93 Days`
+`94 Days`
 
 ---
 
