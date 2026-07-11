@@ -101,12 +101,13 @@
 * **Day 92** → Concatenate Non-Zero Digits and Multiply by Sum II
 * **Day 93** → Path Existence Queries in a Graph I
 * **Day 94** → Path Existence Queries in a Graph II
+* **Day 95** → Count the Number of Complete Components
 
 ---
 
 ### 🔥 Streak
 
-`94 Days`
+`95 Days`
 
 ---
 
