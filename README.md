@@ -103,12 +103,13 @@
 * **Day 94** → Path Existence Queries in a Graph II
 * **Day 95** → Count the Number of Complete Components\
 * **Day 96** → Rank Transform of an Array
+* **Day 97** → Sequential Digits
 
 ---
 
 ### 🔥 Streak
 
-`96 Days`
+`97 Days`
 
 ---
 
