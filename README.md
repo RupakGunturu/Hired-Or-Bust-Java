@@ -104,12 +104,13 @@
 * **Day 95** → Count the Number of Complete Components\
 * **Day 96** → Rank Transform of an Array
 * **Day 97** → Sequential Digits
+* **Day 98** → Find the Number of Subsequences With Equal GCD
 
 ---
 
 ### 🔥 Streak
 
-`97 Days`
+`98 Days`
 
 ---
 
