@@ -105,12 +105,13 @@
 * **Day 96** → Rank Transform of an Array
 * **Day 97** → Sequential Digits
 * **Day 98** → Find the Number of Subsequences With Equal GCD
+* **Day 99** → GCD of Odd and Even Sums
 
 ---
 
 ### 🔥 Streak
 
-`98 Days`
+`99 Days`
 
 ---
 
