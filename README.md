@@ -106,12 +106,13 @@
 * **Day 97** → Sequential Digits
 * **Day 98** → Find the Number of Subsequences With Equal GCD
 * **Day 99** → GCD of Odd and Even Sums
+* **Day 100** → Sum Of GCD of Formed Pairs
 
 ---
 
 ### 🔥 Streak
 
-`99 Days`
+`100 Days`
 
 ---
 
