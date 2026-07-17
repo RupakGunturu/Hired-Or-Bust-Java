@@ -107,12 +107,13 @@
 * **Day 98** → Find the Number of Subsequences With Equal GCD
 * **Day 99** → GCD of Odd and Even Sums
 * **Day 100** → Sum Of GCD of Formed Pairs
+* **Day 101** → Sorted GCD Pair Queries
 
 ---
 
 ### 🔥 Streak
 
-`100 Days`
+`101 Days`
 
 ---
 
