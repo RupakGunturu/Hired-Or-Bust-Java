@@ -108,12 +108,13 @@
 * **Day 99** → GCD of Odd and Even Sums
 * **Day 100** → Sum Of GCD of Formed Pairs
 * **Day 101** → Sorted GCD Pair Queries
+* **Day 102** → Find Greatest Common Divisor of Array
 
 ---
 
 ### 🔥 Streak
 
-`101 Days`
+`102 Days`
 
 ---
 
