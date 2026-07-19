@@ -109,12 +109,13 @@
 * **Day 100** → Sum Of GCD of Formed Pairs
 * **Day 101** → Sorted GCD Pair Queries
 * **Day 102** → Find Greatest Common Divisor of Array
+* **Day 103** → Smallest Subsequence of Distinct Character
 
 ---
 
 ### 🔥 Streak
 
-`102 Days`
+`103 Days`
 
 ---
 
