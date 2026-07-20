@@ -110,12 +110,13 @@
 * **Day 101** → Sorted GCD Pair Queries
 * **Day 102** → Find Greatest Common Divisor of Array
 * **Day 103** → Smallest Subsequence of Distinct Character
+* **Day 104** → Shift 2D Grid
 
 ---
 
 ### 🔥 Streak
 
-`103 Days`
+`104 Days`
 
 ---
 
