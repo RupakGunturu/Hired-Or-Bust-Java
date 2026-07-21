@@ -111,12 +111,13 @@
 * **Day 102** → Find Greatest Common Divisor of Array
 * **Day 103** → Smallest Subsequence of Distinct Character
 * **Day 104** → Shift 2D Grid
+* **Day 105** → Maximize Active Section with Trade I
 
 ---
 
 ### 🔥 Streak
 
-`104 Days`
+`105 Days`
 
 ---
 
