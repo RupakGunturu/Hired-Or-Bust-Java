@@ -112,12 +112,13 @@
 * **Day 103** → Smallest Subsequence of Distinct Character
 * **Day 104** → Shift 2D Grid
 * **Day 105** → Maximize Active Section with Trade I
+* **Day 106** → Maximize Active Section with Trade II
 
 ---
 
 ### 🔥 Streak
 
-`105 Days`
+`106 Days`
 
 ---
 
