@@ -113,12 +113,13 @@
 * **Day 104** → Shift 2D Grid
 * **Day 105** → Maximize Active Section with Trade I
 * **Day 106** → Maximize Active Section with Trade II
+* **Day 107** → Number if Unique XOR Triplets I
 
 ---
 
 ### 🔥 Streak
 
-`106 Days`
+`107 Days`
 
 ---
 
