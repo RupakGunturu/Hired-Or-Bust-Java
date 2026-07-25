@@ -115,12 +115,13 @@
 * **Day 106** → Maximize Active Section with Trade II
 * **Day 107** → Number of Unique XOR Triplets I
 * **Day 108** → Number of Unique XOR Triplets II
+* **Day 109** → Maximum Product of Two Digits
 
 ---
 
 ### 🔥 Streak
 
-`108 Days`
+`109 Days`
 
 ---
 
