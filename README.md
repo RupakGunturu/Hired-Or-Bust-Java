@@ -116,12 +116,13 @@
 * **Day 107** → Number of Unique XOR Triplets I
 * **Day 108** → Number of Unique XOR Triplets II
 * **Day 109** → Maximum Product of Two Digits
+* **Day 110** → Maximum Product of Three Numbers
 
 ---
 
 ### 🔥 Streak
 
-`109 Days`
+`110 Days`
 
 ---
 
