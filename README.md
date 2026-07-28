@@ -117,12 +117,13 @@
 * **Day 108** → Number of Unique XOR Triplets II
 * **Day 109** → Maximum Product of Two Digits
 * **Day 110** → Maximum Product of Three Numbers
+* **Day 111** → Smallest Palindromic Rearrangement I
 
 ---
 
 ### 🔥 Streak
 
-`110 Days`
+`111 Days`
 
 ---
 
