@@ -118,12 +118,13 @@
 * **Day 109** → Maximum Product of Two Digits
 * **Day 110** → Maximum Product of Three Numbers
 * **Day 111** → Smallest Palindromic Rearrangement I
+* **Day 112** → Smallest Palindromic Rearrangement II
 
 ---
 
 ### 🔥 Streak
 
-`111 Days`
+`112 Days`
 
 ---
 
