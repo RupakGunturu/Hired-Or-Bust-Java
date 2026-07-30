@@ -119,12 +119,13 @@
 * **Day 110** → Maximum Product of Three Numbers
 * **Day 111** → Smallest Palindromic Rearrangement I
 * **Day 112** → Smallest Palindromic Rearrangement II
+* **Day 113** → Minimum Number of Pushes To Type Word I
 
 ---
 
 ### 🔥 Streak
 
-`112 Days`
+`113 Days`
 
 ---
 
