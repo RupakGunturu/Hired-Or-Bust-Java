@@ -120,12 +120,13 @@
 * **Day 111** → Smallest Palindromic Rearrangement I
 * **Day 112** → Smallest Palindromic Rearrangement II
 * **Day 113** → Minimum Number of Pushes To Type Word I
+* **Day 114** → Minimum Number of Pushes To Type Word II
 
 ---
 
 ### 🔥 Streak
 
-`113 Days`
+`114 Days`
 
 ---
 
