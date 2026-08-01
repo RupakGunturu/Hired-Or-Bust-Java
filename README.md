@@ -121,12 +121,13 @@
 * **Day 112** → Smallest Palindromic Rearrangement II
 * **Day 113** → Minimum Number of Pushes To Type Word I
 * **Day 114** → Minimum Number of Pushes To Type Word II
+* **Day 115** → Predict the Winner
 
 ---
 
 ### 🔥 Streak
 
-`114 Days`
+`115 Days`
 
 ---
 
