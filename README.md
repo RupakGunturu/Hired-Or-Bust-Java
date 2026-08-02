@@ -122,12 +122,13 @@
 * **Day 113** → Minimum Number of Pushes To Type Word I
 * **Day 114** → Minimum Number of Pushes To Type Word II
 * **Day 115** → Predict the Winner
+* **Day 116** → Stone Game
 
 ---
 
 ### 🔥 Streak
 
-`115 Days`
+`116 Days`
 
 ---
 
