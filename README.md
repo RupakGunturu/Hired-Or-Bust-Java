@@ -124,12 +124,13 @@
 * **Day 115** → Predict the Winner
 * **Day 116** → Stone Game
 * **Day 117** → Stone Game III
+* **Day 118** → Find Missing Elements
 
 ---
 
 ### 🔥 Streak
 
-`117 Days`
+`118 Days`
 
 ---
 
