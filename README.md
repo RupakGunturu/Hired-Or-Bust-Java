@@ -125,12 +125,13 @@
 * **Day 116** → Stone Game
 * **Day 117** → Stone Game III
 * **Day 118** → Find Missing Elements
+* **Day 119** → Remove Methods From Project
 
 ---
 
 ### 🔥 Streak
 
-`118 Days`
+`119 Days`
 
 ---
 
