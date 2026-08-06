@@ -126,12 +126,13 @@
 * **Day 117** → Stone Game III
 * **Day 118** → Find Missing Elements
 * **Day 119** → Remove Methods From Project
+* **Day 120** → Smallest Divisible Digit Product I
 
 ---
 
 ### 🔥 Streak
 
-`119 Days`
+`120 Days`
 
 ---
 
