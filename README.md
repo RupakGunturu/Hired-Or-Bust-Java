@@ -127,12 +127,13 @@
 * **Day 118** → Find Missing Elements
 * **Day 119** → Remove Methods From Project
 * **Day 120** → Smallest Divisible Digit Product I
+* **Day 121** → Smallest Divisible Digit Product II
 
 ---
 
 ### 🔥 Streak
 
-`120 Days`
+`121 Days`
 
 ---
 
