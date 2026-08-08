@@ -128,12 +128,13 @@
 * **Day 119** → Remove Methods From Project
 * **Day 120** → Smallest Divisible Digit Product I
 * **Day 121** → Smallest Divisible Digit Product II
+* **Day 122** → Find the Lexicographically Smallest Valid Sequence
 
 ---
 
 ### 🔥 Streak
 
-`121 Days`
+`122 Days`
 
 ---
 
