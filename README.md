@@ -129,12 +129,13 @@
 * **Day 120** → Smallest Divisible Digit Product I
 * **Day 121** → Smallest Divisible Digit Product II
 * **Day 122** → Find the Lexicographically Smallest Valid Sequence
+* **Day 123** → Stone Game II
 
 ---
 
 ### 🔥 Streak
 
-`122 Days`
+`123 Days`
 
 ---
 
