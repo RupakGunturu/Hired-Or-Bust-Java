@@ -131,12 +131,13 @@
 * **Day 122** → Find the Lexicographically Smallest Valid Sequence
 * **Day 123** → Stone Game II
 * **Day 124** → Stone Game IV
+* **Day 125** → Smallest Missing Integer Greater Than Sequential Prefix Sum
 
 ---
 
 ### 🔥 Streak
 
-`124 Days`
+`125 Days`
 
 ---
 
