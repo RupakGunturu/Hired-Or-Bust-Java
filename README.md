@@ -133,12 +133,13 @@
 * **Day 124** → Stone Game IV
 * **Day 125** → Smallest Missing Integer Greater Than Sequential Prefix Sum
 * **Day 126** → Length of Longest Subarray With at Most K Frequency
+* **Day 127** → Longest Substring of One Repeating Character
 
 ---
 
 ### 🔥 Streak
 
-`126 Days`
+`127 Days`
 
 ---
 
