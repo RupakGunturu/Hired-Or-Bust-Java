@@ -134,12 +134,13 @@
 * **Day 125** → Smallest Missing Integer Greater Than Sequential Prefix Sum
 * **Day 126** → Length of Longest Subarray With at Most K Frequency
 * **Day 127** → Longest Substring of One Repeating Character
+* **Day 128** → Maximum Length Substring With Two Occurrences
 
 ---
 
 ### 🔥 Streak
 
-`127 Days`
+`128 Days`
 
 ---
 
