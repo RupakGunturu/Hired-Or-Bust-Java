@@ -135,12 +135,13 @@
 * **Day 126** → Length of Longest Subarray With at Most K Frequency
 * **Day 127** → Longest Substring of One Repeating Character
 * **Day 128** → Maximum Length Substring With Two Occurrences
+* **Day 129** → Longest Subsequence With Non-Zero Bitwise XOR
 
 ---
 
 ### 🔥 Streak
 
-`128 Days`
+`129 Days`
 
 ---
 
