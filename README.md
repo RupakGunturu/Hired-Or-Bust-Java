@@ -136,12 +136,13 @@
 * **Day 127** → Longest Substring of One Repeating Character
 * **Day 128** → Maximum Length Substring With Two Occurrences
 * **Day 129** → Longest Subsequence With Non-Zero Bitwise XOR
+* **Day 130** → Stone Game IX
 
 ---
 
 ### 🔥 Streak
 
-`129 Days`
+`130 Days`
 
 ---
 
