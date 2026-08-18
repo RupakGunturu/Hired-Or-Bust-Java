@@ -138,12 +138,13 @@
 * **Day 129** → Longest Subsequence With Non-Zero Bitwise XOR
 * **Day 130** → Stone Game IX
 * **Day 131** → Stone Game V
+* **Day 132** → Find the Largest Almost Missing Integer
 
 ---
 
 ### 🔥 Streak
 
-`131 Days`
+`132 Days`
 
 ---
 
