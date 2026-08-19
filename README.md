@@ -139,12 +139,13 @@
 * **Day 130** → Stone Game IX
 * **Day 131** → Stone Game V
 * **Day 132** → Find the Largest Almost Missing Integer
+* **Day 133** → Cinema Seat Allocation
 
 ---
 
 ### 🔥 Streak
 
-`132 Days`
+`133 Days`
 
 ---
 
