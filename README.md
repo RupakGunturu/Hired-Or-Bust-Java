@@ -140,12 +140,13 @@
 * **Day 131** → Stone Game V
 * **Day 132** → Find the Largest Almost Missing Integer
 * **Day 133** → Cinema Seat Allocation
+* **Day 134** → Distribute Elements Into Two Arrays I
 
 ---
 
 ### 🔥 Streak
 
-`133 Days`
+`134 Days`
 
 ---
 
