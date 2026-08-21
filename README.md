@@ -141,12 +141,13 @@
 * **Day 132** → Find the Largest Almost Missing Integer
 * **Day 133** → Cinema Seat Allocation
 * **Day 134** → Distribute Elements Into Two Arrays I
+* **Day 135** → Kth Smallest Amount With Single Denomination Combination
 
 ---
 
 ### 🔥 Streak
 
-`134 Days`
+`135 Days`
 
 ---
 
