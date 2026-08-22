@@ -142,12 +142,13 @@
 * **Day 133** → Cinema Seat Allocation
 * **Day 134** → Distribute Elements Into Two Arrays I
 * **Day 135** → Kth Smallest Amount With Single Denomination Combination
+* **Day 136** → Check Divisibility by Digit Sum and Product
 
 ---
 
 ### 🔥 Streak
 
-`135 Days`
+`136 Days`
 
 ---
 
