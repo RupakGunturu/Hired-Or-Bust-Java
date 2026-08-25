@@ -145,13 +145,14 @@
 * **Day 136** → Check Divisibility by Digit Sum and Product
 * **Day 137** → Sum Game
 * **Day 138** → Stone Game VIII
+* **Day 139** → Smallest Missing Multiple of K.
 
 
 ---
 
 ### 🔥 Streak
 
-`138 Days`
+`139 Days`
 
 ---
 
