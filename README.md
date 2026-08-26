@@ -145,14 +145,15 @@
 * **Day 136** → Check Divisibility by Digit Sum and Product
 * **Day 137** → Sum Game
 * **Day 138** → Stone Game VIII
-* **Day 139** → Smallest Missing Multiple of K.
+* **Day 139** → Smallest Missing Multiple of K
+* **Day 140** → Shortest and Lexicographically Smallest Beautiful String
 
 
 ---
 
 ### 🔥 Streak
 
-`139 Days`
+`140 Days`
 
 ---
 
