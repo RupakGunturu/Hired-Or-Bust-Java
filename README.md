@@ -147,13 +147,14 @@
 * **Day 138** → Stone Game VIII
 * **Day 139** → Smallest Missing Multiple of K
 * **Day 140** → Shortest and Lexicographically Smallest Beautiful String
+* **Day 141** → Lexicographically Smallest Permutation Greater Than Target
 
 
 ---
 
 ### 🔥 Streak
 
-`140 Days`
+`141 Days`
 
 ---
 
