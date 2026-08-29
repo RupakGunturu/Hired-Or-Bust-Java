@@ -149,13 +149,14 @@
 * **Day 140** → Shortest and Lexicographically Smallest Beautiful String
 * **Day 141** → Lexicographically Smallest Permutation Greater Than Target
 * **Day 142** → Lexicographically Smallest Palindromic Permutation Greater Than Target
+* **Day 143** → Make Lexicographically Smallest Array by Swapping Elements.
 
 
 ---
 
 ### 🔥 Streak
 
-`142 Days`
+`143 Days`
 
 ---
 
