@@ -151,13 +151,14 @@
 * **Day 142** → Lexicographically Smallest Palindromic Permutation Greater Than Target
 * **Day 143** → Make Lexicographically Smallest Array by Swapping Elements
 * **Day 144** → Removing Minimum and Maximum From Array
+* **Day 145** → Find the Minimum and Maximum Number of Nodes Between Critical Points
 
 
 ---
 
 ### 🔥 Streak
 
-`144 Days`
+`145 Days`
 
 ---
 
