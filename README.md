@@ -152,13 +152,14 @@
 * **Day 143** → Make Lexicographically Smallest Array by Swapping Elements
 * **Day 144** → Removing Minimum and Maximum From Array
 * **Day 145** → Find the Minimum and Maximum Number of Nodes Between Critical Points
+* **Day 146** → Minimum Moves to Clean the Classroom
 
 
 ---
 
 ### 🔥 Streak
 
-`145 Days`
+`146 Days`
 
 ---
 
