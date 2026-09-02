@@ -153,13 +153,14 @@
 * **Day 144** → Removing Minimum and Maximum From Array
 * **Day 145** → Find the Minimum and Maximum Number of Nodes Between Critical Points
 * **Day 146** → Minimum Moves to Clean the Classroom
+* **Day 147** → Construct Uniform Parity Array I
 
 
 ---
 
 ### 🔥 Streak
 
-`146 Days`
+`147 Days`
 
 ---
 
