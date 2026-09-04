@@ -155,6 +155,7 @@
 * **Day 146** → Minimum Moves to Clean the Classroom
 * **Day 147** → Construct Uniform Parity Array I
 * **Day 148** → Construct Uniform Parity Array II
+* **Day 149** → Smallest Stable Index I
 
 
 
@@ -162,7 +163,7 @@
 
 ### 🔥 Streak
 
-`148 Days`
+`149 Days`
 
 ---
 
