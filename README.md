@@ -156,6 +156,7 @@
 * **Day 147** → Construct Uniform Parity Array I
 * **Day 148** → Construct Uniform Parity Array II
 * **Day 149** → Smallest Stable Index I
+* **Day 150** → Smallest Stable Index II
 
 
 
@@ -163,7 +164,7 @@
 
 ### 🔥 Streak
 
-`149 Days`
+`150 Days`
 
 ---
 
