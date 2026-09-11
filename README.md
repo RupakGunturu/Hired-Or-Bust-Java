@@ -162,6 +162,7 @@
 * **Day 153** → Count Commas in Range
 * **Day 154** → Count Commas in Range II
 * **Day 155** → Count Nodes Equal to Average of Subtree
+* **Day 156** → Unique 3-Digit Even Numbers
 
 
 
@@ -169,7 +170,7 @@
 
 ### 🔥 Streak
 
-`155 Days`
+`156 Days`
 
 ---
 
