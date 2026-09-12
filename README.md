@@ -163,6 +163,7 @@
 * **Day 154** → Count Commas in Range II
 * **Day 155** → Count Nodes Equal to Average of Subtree
 * **Day 156** → Unique 3-Digit Even Numbers
+* **Day 157** → Maximum Score of Non-overlapping Intervals
 
 
 
@@ -170,7 +171,7 @@
 
 ### 🔥 Streak
 
-`156 Days`
+`157 Days`
 
 ---
 
