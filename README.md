@@ -165,7 +165,8 @@
 * **Day 156** → Unique 3-Digit Even Numbers
 * **Day 157** → Maximum Score of Non-overlapping Intervals
 * **Day 158** → Image Overlap
-* **Day 159** → Rectangle Overlap.
+* **Day 159** → Rectangle Overlap
+* **Day 160** → Maximum Number of Non-overlapping Palindrome Substrings
 
 
 
@@ -173,7 +174,7 @@
 
 ### 🔥 Streak
 
-`159 Days`
+`160 Days`
 
 ---
 
