@@ -167,6 +167,7 @@
 * **Day 158** → Image Overlap
 * **Day 159** → Rectangle Overlap
 * **Day 160** → Maximum Number of Non-overlapping Palindrome Substrings
+* **Day 161** → Number of Sets of K Non-Overlapping Line Segments
 
 
 
@@ -174,7 +175,7 @@
 
 ### 🔥 Streak
 
-`160 Days`
+`161 Days`
 
 ---
 
