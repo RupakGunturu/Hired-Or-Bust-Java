@@ -168,7 +168,8 @@
 * **Day 159** → Rectangle Overlap
 * **Day 160** → Maximum Number of Non-overlapping Palindrome Substrings
 * **Day 161** → Number of Sets of K Non-Overlapping Line Segments
-* **Day 162** → Find Two Non-overlapping Sub-arrays Each With Target Sumu
+* **Day 162** → Find Two Non-overlapping Sub-arrays Each With Target Sum
+* **Day 163** → Maximum Number of Non-Overlapping Substrings
 
 
 
@@ -176,7 +177,7 @@
 
 ### 🔥 Streak
 
-`162 Days`
+`163 Days`
 
 ---
 
