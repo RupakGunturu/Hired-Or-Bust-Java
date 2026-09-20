@@ -171,6 +171,7 @@
 * **Day 162** → Find Two Non-overlapping Sub-arrays Each With Target Sum
 * **Day 163** → Maximum Number of Non-Overlapping Substrings
 * **Day 164** → Circle and Rectangle Overlapping
+* **Day 165** → Reverse Degree of a String
 
 
 
@@ -178,7 +179,7 @@
 
 ### 🔥 Streak
 
-`164 Days`
+`165 Days`
 
 ---
 
