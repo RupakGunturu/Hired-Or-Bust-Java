@@ -172,6 +172,7 @@
 * **Day 163** → Maximum Number of Non-Overlapping Substrings
 * **Day 164** → Circle and Rectangle Overlapping
 * **Day 165** → Reverse Degree of a String
+* **Day 166** → Find X Value of Array I
 
 
 
@@ -179,7 +180,7 @@
 
 ### 🔥 Streak
 
-`165 Days`
+`166 Days`
 
 ---
 
