@@ -173,6 +173,8 @@
 * **Day 164** → Circle and Rectangle Overlapping
 * **Day 165** → Reverse Degree of a String
 * **Day 166** → Find X Value of Array I
+* **Day 167** → Find X Value of Array II
+
 
 
 
@@ -180,7 +182,7 @@
 
 ### 🔥 Streak
 
-`166 Days`
+`167 Days`
 
 ---
 
