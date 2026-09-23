@@ -174,6 +174,7 @@
 * **Day 165** → Reverse Degree of a String
 * **Day 166** → Find X Value of Array I
 * **Day 167** → Find X Value of Array II
+* **Day 168** → Minimum Operations to Reduce X to Zero
 
 
 
@@ -182,7 +183,7 @@
 
 ### 🔥 Streak
 
-`167 Days`
+`168 Days`
 
 ---
 
