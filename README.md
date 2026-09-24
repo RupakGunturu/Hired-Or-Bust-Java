@@ -175,6 +175,7 @@
 * **Day 166** → Find X Value of Array I
 * **Day 167** → Find X Value of Array II
 * **Day 168** → Minimum Operations to Reduce X to Zero
+* **Day 169** → Smallest Index With Digit Sum Equal to Index
 
 
 
@@ -183,7 +184,7 @@
 
 ### 🔥 Streak
 
-`168 Days`
+`169 Days`
 
 ---
 
