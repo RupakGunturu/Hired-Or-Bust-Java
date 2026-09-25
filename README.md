@@ -176,6 +176,7 @@
 * **Day 167** → Find X Value of Array II
 * **Day 168** → Minimum Operations to Reduce X to Zero
 * **Day 169** → Smallest Index With Digit Sum Equal to Index
+* **Day 170** → Brace Expansion II
 
 
 
@@ -184,7 +185,7 @@
 
 ### 🔥 Streak
 
-`169 Days`
+`170 Days`
 
 ---
 
