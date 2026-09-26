@@ -177,6 +177,7 @@
 * **Day 168** → Minimum Operations to Reduce X to Zero
 * **Day 169** → Smallest Index With Digit Sum Equal to Index
 * **Day 170** → Brace Expansion II
+* **Day 171** → Evaluate the Bracket Pairs of a String
 
 
 
@@ -185,7 +186,7 @@
 
 ### 🔥 Streak
 
-`170 Days`
+`171 Days`
 
 ---
 
