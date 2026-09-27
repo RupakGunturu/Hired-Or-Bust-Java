@@ -178,6 +178,7 @@
 * **Day 169** → Smallest Index With Digit Sum Equal to Index
 * **Day 170** → Brace Expansion II
 * **Day 171** → Evaluate the Bracket Pairs of a String
+* **Day 172** → Reverse Substrings Between Each Pair of Parentheses
 
 
 
@@ -186,7 +187,7 @@
 
 ### 🔥 Streak
 
-`171 Days`
+`172 Days`
 
 ---
 
