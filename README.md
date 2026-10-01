@@ -182,6 +182,7 @@
 * **Day 173** → Maximum Nesting Depth of the Parentheses
 * **Day 174** → Check if There Is a Valid Parentheses String Path
 * **Day 175** → Maximum Nesting Depth of Two Valid Parentheses Strings
+* **Day 176** → Valid Parentheses
 
 
 
@@ -190,7 +191,7 @@
 
 ### 🔥 Streak
 
-`175 Days`
+`176 Days`
 
 ---
 
