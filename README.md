@@ -184,6 +184,7 @@
 * **Day 175** → Maximum Nesting Depth of Two Valid Parentheses Strings
 * **Day 176** → Valid Parentheses
 * **Day 177** → Generate Parentheses
+* **Day 178** → Longest Valid Parentheses
 
 
 
@@ -192,7 +193,7 @@
 
 ### 🔥 Streak
 
-`177 Days`
+`178 Days`
 
 ---
 
