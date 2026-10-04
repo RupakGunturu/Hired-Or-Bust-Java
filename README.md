@@ -185,6 +185,8 @@
 * **Day 176** → Valid Parentheses
 * **Day 177** → Generate Parentheses
 * **Day 178** → Longest Valid Parentheses
+* **Day 179** → Valid Parentheses String
+
 
 
 
@@ -193,7 +195,7 @@
 
 ### 🔥 Streak
 
-`178 Days`
+`179 Days`
 
 ---
 
