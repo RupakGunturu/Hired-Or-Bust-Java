@@ -191,6 +191,7 @@
 * **Day 182** → Remove Invalid Parentheses
 * **Day 183** → Remove Outermost Parentheses
 * **Day 184** → Minimum Insertions to Balance a Parentheses String
+* **Day 185** → Minimum Sum of Squared Difference
 
 
 
@@ -200,7 +201,7 @@
 
 ### 🔥 Streak
 
-`184 Days`
+`185 Days`
 
 ---
 
