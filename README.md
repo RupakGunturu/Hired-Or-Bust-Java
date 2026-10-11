@@ -192,6 +192,7 @@
 * **Day 183** → Remove Outermost Parentheses
 * **Day 184** → Minimum Insertions to Balance a Parentheses String
 * **Day 185** → Minimum Sum of Squared Difference
+* **Day 186** → Sum of Squares of Special Elements
 
 
 
@@ -201,7 +202,7 @@
 
 ### 🔥 Streak
 
-`185 Days`
+`186 Days`
 
 ---
 
