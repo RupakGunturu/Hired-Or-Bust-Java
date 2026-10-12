@@ -193,6 +193,7 @@
 * **Day 184** → Minimum Insertions to Balance a Parentheses String
 * **Day 185** → Minimum Sum of Squared Difference
 * **Day 186** → Sum of Squares of Special Elements
+* **Day 187** → Apply Operations on Array to Maximize Sum of Squares
 
 
 
@@ -202,7 +203,7 @@
 
 ### 🔥 Streak
 
-`186 Days`
+`187 Days`
 
 ---
 
