@@ -197,6 +197,7 @@
 * **Day 188** → Maximum Alternating Sum of Squares
 * **Day 189** → Maximize Sum of Squares of Digits
 * **Day 190** → Subarrays Distinct Element Sum of Squares I
+* **Day 191** → Subarrays Distinct Element Sum of Squares II
 
 
 
@@ -205,7 +206,7 @@
 
 ### 🔥 Streak
 
-`190 Days`
+`191 Days`
 
 ---
 
