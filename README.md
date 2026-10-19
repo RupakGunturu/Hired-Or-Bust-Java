@@ -200,6 +200,7 @@
 * **Day 191** → Subarrays Distinct Element Sum of Squares II
 * **Day 192** → Minimum Swaps to Sort by Digit Sum
 * **Day 193** → Number of Ways to Reorder Array to Get Same BST
+* **Day 194** → Find Target Indices After Sorting Array
 
 
 
@@ -208,7 +209,7 @@
 
 ### 🔥 Streak
 
-`193 Days`
+`194 Days`
 
 ---
 
