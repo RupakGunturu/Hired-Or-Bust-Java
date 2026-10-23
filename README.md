@@ -204,6 +204,7 @@
 * **Day 195** → Sum of Sortable Integers
 * **Day 196** → Minimum Operations to Sort a String
 * **Day 197** → Minimum Operations to Sort a Permutation
+* **Day 198** → Maximum K to Sort a Permutation
 
 
 
@@ -212,7 +213,7 @@
 
 ### 🔥 Streak
 
-`197 Days`
+`198 Days`
 
 ---
 
