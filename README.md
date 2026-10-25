@@ -206,6 +206,7 @@
 * **Day 197** → Minimum Operations to Sort a Permutation
 * **Day 198** → Maximum K to Sort a Permutation
 * **Day 199** → Count Days Spent Together
+* **Day 200** → Number of Closed Islands
 
 
 
@@ -214,7 +215,7 @@
 
 ### 🔥 Streak
 
-`199 Days`
+`200 Days`
 
 ---
 
