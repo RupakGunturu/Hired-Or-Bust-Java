@@ -207,17 +207,16 @@
 * **Day 198** → Maximum K to Sort a Permutation
 * **Day 199** → Count Days Spent Together
 * **Day 200** → Number of Closed Islands
-* **Day 201** → Count Islands With Total Value Divisible by K.
+* **Day 201** → Count Islands With Total Value Divisible by K
 * **Day 202** → Create Grid With Exactly One Path
-
-
+* **Day 203** → Minimum XOR Path in a Grid
 
 
 ---
 
 ### 🔥 Streak
 
-`201 Days`
+`203 Days`
 
 ---
 
