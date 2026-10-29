@@ -210,13 +210,14 @@
 * **Day 201** → Count Islands With Total Value Divisible by K
 * **Day 202** → Create Grid With Exactly One Path
 * **Day 203** → Minimum XOR Path in a Grid
+* **Day 204** → Palindromic Path Queries in a Tree
 
 
 ---
 
 ### 🔥 Streak
 
-`203 Days`
+`204 Days`
 
 ---
 
