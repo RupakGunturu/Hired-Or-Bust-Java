@@ -211,13 +211,14 @@
 * **Day 202** → Create Grid With Exactly One Path
 * **Day 203** → Minimum XOR Path in a Grid
 * **Day 204** → Palindromic Path Queries in a Tree
+* **Day 205** → Shortest Path With At Most K Consecutive Identical Characters
 
 
 ---
 
 ### 🔥 Streak
 
-`204 Days`
+`205 Days`
 
 ---
 
