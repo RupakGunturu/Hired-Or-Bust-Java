@@ -212,13 +212,14 @@
 * **Day 203** → Minimum XOR Path in a Grid
 * **Day 204** → Palindromic Path Queries in a Tree
 * **Day 205** → Shortest Path With At Most K Consecutive Identical Characters
+* **Day 206** → Twisted Mirror Path Count
 
 
 ---
 
 ### 🔥 Streak
 
-`205 Days`
+`206 Days`
 
 ---
 
