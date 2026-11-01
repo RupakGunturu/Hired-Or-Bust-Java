@@ -213,13 +213,14 @@
 * **Day 204** → Palindromic Path Queries in a Tree
 * **Day 205** → Shortest Path With At Most K Consecutive Identical Characters
 * **Day 206** → Twisted Mirror Path Count
+* **Day 207** → Minimum Moves to Equal Array Elements
 
 
 ---
 
 ### 🔥 Streak
 
-`206 Days`
+`207 Days`
 
 ---
 
