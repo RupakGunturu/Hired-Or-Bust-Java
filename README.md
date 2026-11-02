@@ -214,13 +214,14 @@
 * **Day 205** → Shortest Path With At Most K Consecutive Identical Characters
 * **Day 206** → Twisted Mirror Path Count
 * **Day 207** → Minimum Moves to Equal Array Elements
+* **Day 208** → Minimum Moves to Equal Array Elements II
 
 
 ---
 
 ### 🔥 Streak
 
-`207 Days`
+`208 Days`
 
 ---
 
