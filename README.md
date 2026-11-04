@@ -216,13 +216,14 @@
 * **Day 207** → Minimum Moves to Equal Array Elements
 * **Day 208** → Minimum Moves to Equal Array Elements II
 * **Day 209** → Minimum Moves to Equal Array Elements III
+* **Day 210** → Minimum Operations to Make Elements Within K Subarrays Equal
 
 
 ---
 
 ### 🔥 Streak
 
-`209 Days`
+`210 Days`
 
 ---
 
