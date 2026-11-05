@@ -217,13 +217,14 @@
 * **Day 208** → Minimum Moves to Equal Array Elements II
 * **Day 209** → Minimum Moves to Equal Array Elements III
 * **Day 210** → Minimum Operations to Make Elements Within K Subarrays Equal
+* **Day 211** → Find the Distance Value Between Two Arrays
 
 
 ---
 
 ### 🔥 Streak
 
-`210 Days`
+`211 Days`
 
 ---
 
