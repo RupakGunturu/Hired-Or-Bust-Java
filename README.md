@@ -218,13 +218,14 @@
 * **Day 209** → Minimum Moves to Equal Array Elements III
 * **Day 210** → Minimum Operations to Make Elements Within K Subarrays Equal
 * **Day 211** → Find the Distance Value Between Two Arrays
+* **Day 212** → Count Zero Request Servers
 
 
 ---
 
 ### 🔥 Streak
 
-`211 Days`
+`212 Days`
 
 ---
 
