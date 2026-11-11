@@ -223,13 +223,14 @@
 * **Day 214** → Count Servers that Communicate
 * **Day 215** → Find Servers That Handled Most Number of Requests
 * **Day 215** → Climbing Stairs II
+* **Day 216** → Minimum Cost to Acquire Required Items
 
 
 ---
 
 ### 🔥 Streak
 
-`215 Days`
+`216 Days`
 
 ---
 
