@@ -224,13 +224,14 @@
 * **Day 215** → Find Servers That Handled Most Number of Requests
 * **Day 215** → Climbing Stairs II
 * **Day 216** → Minimum Cost to Acquire Required Items
+* **Day 217** → Longest Strictly Increasing or Strictly Decreasing Subarray
 
 
 ---
 
 ### 🔥 Streak
 
-`216 Days`
+`217 Days`
 
 ---
 
