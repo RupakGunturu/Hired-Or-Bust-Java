@@ -225,13 +225,14 @@
 * **Day 215** → Climbing Stairs II
 * **Day 216** → Minimum Cost to Acquire Required Items
 * **Day 217** → Longest Strictly Increasing or Strictly Decreasing Subarray
+* **Day 218** → Count Non-Decreasing Subarrays After K Operations
 
 
 ---
 
 ### 🔥 Streak
 
-`217 Days`
+`218 Days`
 
 ---
 
