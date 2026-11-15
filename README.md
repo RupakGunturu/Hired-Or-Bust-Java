@@ -227,13 +227,14 @@
 * **Day 217** → Longest Strictly Increasing or Strictly Decreasing Subarray
 * **Day 218** → Count Non-Decreasing Subarrays After K Operations
 * **Day 219** → Minimum Positive Sum Subarray
+* **Day 220** → Number of Sub-arrays With Odd Sum
 
 
 ---
 
 ### 🔥 Streak
 
-`219 Days`
+`220 Days`
 
 ---
 
