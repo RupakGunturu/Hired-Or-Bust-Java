@@ -228,7 +228,7 @@
 * **Day 219** → Count Non-Decreasing Subarrays After K Operations
 * **Day 220** → Minimum Positive Sum Subarray
 * **Day 221** → Number of Sub-arrays With Odd Sum
-* **Day 222** →
+* **Day 222** → Calculate Digit Sum of a String
 
 
 ---
