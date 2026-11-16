@@ -222,19 +222,20 @@
 * **Day 213** → Process Tasks Using Servers
 * **Day 214** → Count Servers that Communicate
 * **Day 215** → Find Servers That Handled Most Number of Requests
-* **Day 215** → Climbing Stairs II
-* **Day 216** → Minimum Cost to Acquire Required Items
-* **Day 217** → Longest Strictly Increasing or Strictly Decreasing Subarray
-* **Day 218** → Count Non-Decreasing Subarrays After K Operations
-* **Day 219** → Minimum Positive Sum Subarray
-* **Day 220** → Number of Sub-arrays With Odd Sum
+* **Day 216** → Climbing Stairs II
+* **Day 217** → Minimum Cost to Acquire Required Items
+* **Day 218** → Longest Strictly Increasing or Strictly Decreasing Subarray
+* **Day 219** → Count Non-Decreasing Subarrays After K Operations
+* **Day 220** → Minimum Positive Sum Subarray
+* **Day 221** → Number of Sub-arrays With Odd Sum
+* **Day 222** →
 
 
 ---
 
 ### 🔥 Streak
 
-`220 Days`
+`222 Days`
 
 ---
 
