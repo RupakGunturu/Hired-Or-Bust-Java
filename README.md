@@ -229,13 +229,14 @@
 * **Day 220** → Minimum Positive Sum Subarray
 * **Day 221** → Number of Sub-arrays With Odd Sum
 * **Day 222** → Calculate Digit Sum of a String
+* **Day 223** → Minimum Changes to Make K Semi-palindromes
 
 
 ---
 
 ### 🔥 Streak
 
-`222 Days`
+`223 Days`
 
 ---
 
