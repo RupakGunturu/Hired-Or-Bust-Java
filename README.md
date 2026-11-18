@@ -230,13 +230,14 @@
 * **Day 221** → Number of Sub-arrays With Odd Sum
 * **Day 222** → Calculate Digit Sum of a String
 * **Day 223** → Minimum Changes to Make K Semi-palindromes
+* **Day 224** → Minimum Number of Changes to Make Binary String Beautiful
 
 
 ---
 
 ### 🔥 Streak
 
-`223 Days`
+`224 Days`
 
 ---
 
