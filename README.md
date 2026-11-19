@@ -231,13 +231,14 @@
 * **Day 222** → Calculate Digit Sum of a String
 * **Day 223** → Minimum Changes to Make K Semi-palindromes
 * **Day 224** → Minimum Number of Changes to Make Binary String Beautiful
+* **Day 225** → Minimum Score by Changing Two Elements
 
 
 ---
 
 ### 🔥 Streak
 
-`224 Days`
+`225 Days`
 
 ---
 
