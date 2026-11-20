@@ -232,13 +232,14 @@
 * **Day 223** → Minimum Changes to Make K Semi-palindromes
 * **Day 224** → Minimum Number of Changes to Make Binary String Beautiful
 * **Day 225** → Minimum Score by Changing Two Elements
+* **Day 226** → Maximize Consecutive Elements in an Array After Modification
 
 
 ---
 
 ### 🔥 Streak
 
-`225 Days`
+`226 Days`
 
 ---
 
