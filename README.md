@@ -233,13 +233,14 @@
 * **Day 224** → Minimum Number of Changes to Make Binary String Beautiful
 * **Day 225** → Minimum Score by Changing Two Elements
 * **Day 226** → Maximize Consecutive Elements in an Array After Modification
+* **Day 227** → Find Subtree Sizes After Changes
 
 
 ---
 
 ### 🔥 Streak
 
-`226 Days`
+`227 Days`
 
 ---
 
