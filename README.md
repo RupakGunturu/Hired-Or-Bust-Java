@@ -234,13 +234,14 @@
 * **Day 225** → Minimum Score by Changing Two Elements
 * **Day 226** → Maximize Consecutive Elements in an Array After Modification
 * **Day 227** → Find Subtree Sizes After Changes
+* **Day 228** → Check if All A's Appears Before All B's
 
 
 ---
 
 ### 🔥 Streak
 
-`227 Days`
+`228 Days`
 
 ---
 
