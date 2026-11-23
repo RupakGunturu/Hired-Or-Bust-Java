@@ -235,13 +235,14 @@
 * **Day 226** → Maximize Consecutive Elements in an Array After Modification
 * **Day 227** → Find Subtree Sizes After Changes
 * **Day 228** → Check if All A's Appears Before All B's
+* **Day 229** → Product of the Last K Numbers
 
 
 ---
 
 ### 🔥 Streak
 
-`228 Days`
+`229 Days`
 
 ---
 
