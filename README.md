@@ -236,13 +236,14 @@
 * **Day 227** → Find Subtree Sizes After Changes
 * **Day 228** → Check if All A's Appears Before All B's
 * **Day 229** → Product of the Last K Numbers
+* **Day 230** → Maximum Subarray With Equal Products
 
 
 ---
 
 ### 🔥 Streak
 
-`229 Days`
+`230 Days`
 
 ---
 
