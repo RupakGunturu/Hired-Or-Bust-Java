@@ -238,13 +238,14 @@
 * **Day 229** → Product of the Last K Numbers
 * **Day 230** → Maximum Subarray With Equal Products
 * **Day 231** → Smallest Unique Subarray
+* **Day 232** → Stone Removal Game
 
 
 ---
 
 ### 🔥 Streak
 
-`231 Days`
+`232 Days`
 
 ---
 
