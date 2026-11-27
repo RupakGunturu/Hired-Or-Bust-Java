@@ -239,13 +239,14 @@
 * **Day 230** → Maximum Subarray With Equal Products
 * **Day 231** → Smallest Unique Subarray
 * **Day 232** → Stone Removal Game
+* **Day 233** → Maximum Number of Items From Sale I
 
 
 ---
 
 ### 🔥 Streak
 
-`232 Days`
+`233 Days`
 
 ---
 
